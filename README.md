@@ -17,9 +17,10 @@ The platform used was MacOS.
 ## Documentation map
 LICENSE: gives instructions on how to use and cite this repository<br>
 README.md: guidebook for navigating this repository<br>
-assignment_1.ipynb: all of our inputting, cleaning, analyzing, and visualizing for this project<br>
+assignment_1.ipynb: all of our data inputting, cleaning, analyzing, and visualizing for this project<br>
 barbie_Cleaned.csv: the cleaned barbie review dataset<br>
 packages.txt: packages needed for installation<br>
 words.txt: dictionary of words used for training <br>
 
 ## Instructions for reproduction
+To reproduce our results: <br>
