@@ -1,6 +1,7 @@
 # Project name and introduction
 Data Science Barbie: Chick Flicks and Data Tricks<br>
-Mary Ellen Schuster, Sarah Menchavez, Elizabeth Peterson
+Mary Ellen Schuster, Sarah Menchavez, Elizabeth Peterson<br>
+DS 4002 Project 1<br>
 
 ## Software and platform
 To perform this analysis, we used a python environment in Virtual Studio code.<br>
