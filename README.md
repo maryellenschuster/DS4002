@@ -2,11 +2,6 @@
 Data Science Barbie: Chick Flicks and Data Tricks 
 Mary Ellen Schuster, Sarah Menchavez, Elizabeth Peterson
 
-## H2
-This repository includes: 
-- A cleaned csv file of all the Barbie data reviews
-- The packages needed for
-
 ## Software and platform
 To perform this analysis, we used a python environment in Virtual Studio code.
 The add-on packages needed are: 
@@ -17,10 +12,10 @@ The add-on packages needed are:
 - from sklearn.metrics import mean_squared_error, r2_score
 - from nltk.sentiment.vader import SentimentIntensityAnalyzer
 - from nltk.corpus import stopwords
+
 The platform used was MacOS.
 
 ## Documentation map
-
+outline of tree / hierarchy of folders and subfolders
 
 ## Instructions for reproduction
-
