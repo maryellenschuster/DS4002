@@ -29,8 +29,8 @@ words.txt: dictionary of words used for training <br>
 
 ## Instructions for reproduction
 To reproduce our results: <br>
-- read in and clean barbie review data set until you have two columns: written review and number rating<br>
-- use spacy to extract and identify most common adjectives in the reviews<br>
-- apply VADER sentiment analysis to the reviews and add the VADER score as a column to the dataset<br>
-- apply a linear regression model to the data to see if the VADER scores correlate to the user's number rating<br>
-- use the R^2 and Mean Squared Error values to determine the efficacy of the model <br>
+- Read in and clean barbie review data set until you have two columns: written review and number rating<br>
+- Use spacy to extract and identify most common adjectives in the reviews<br>
+- Apply VADER sentiment analysis to the reviews and add the VADER score as a column to the dataset<br>
+- Apply a linear regression model to the data to see if the VADER scores correlate to the user's number rating<br>
+- Use the R^2 and Mean Squared Error values to determine the efficacy of the model <br>
