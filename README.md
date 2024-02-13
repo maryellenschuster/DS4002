@@ -4,6 +4,7 @@ Mary Ellen Schuster, Sarah Menchavez, Elizabeth Peterson
 
 ## Software and platform
 To perform this analysis, we used a python environment in Virtual Studio code.<br>
+The platform used was MacOS.<br>
 The add-on packages needed are: 
 - import pandas as pd
 - import nltk
@@ -12,8 +13,6 @@ The add-on packages needed are:
 - from sklearn.metrics import mean_squared_error, r2_score
 - from nltk.sentiment.vader import SentimentIntensityAnalyzer
 - from nltk.corpus import stopwords<br>
-The platform used was MacOS.
-
 ## Documentation map
 LICENSE: gives instructions on how to use and cite this repository<br>
 <br>
