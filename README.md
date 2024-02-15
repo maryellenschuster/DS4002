@@ -25,6 +25,8 @@ barbie_Cleaned.csv: the cleaned barbie review dataset<br>
 <br>
 barbie_data.csv: the raw barbie review dataset<br>
 <br>
+barbie_data_vader_scores.csv: the cleaned barbie review dataset with the VADER score column<br>
+<br>
 packages.txt: packages needed for installation<br>
 <br>
 words.txt: dictionary of words used for training <br>
