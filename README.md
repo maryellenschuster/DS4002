@@ -23,6 +23,8 @@ assignment_1.ipynb: all of our data inputting, cleaning, analyzing, and visualiz
 <br>
 barbie_Cleaned.csv: the cleaned barbie review dataset<br>
 <br>
+barbie_data.csv: the raw barbie review dataset<br>
+<br>
 packages.txt: packages needed for installation<br>
 <br>
 words.txt: dictionary of words used for training <br>
