@@ -15,6 +15,7 @@ The add-on packages needed are:
 - import matplotlib.pyplot as plt
 - import datetime
 - import seaborn as sns<br>
+
 ## Documentation map
 LICENSE: gives instructions on how to use and cite this repository<br>
 <br>
@@ -24,17 +25,14 @@ weather.ipynb: all of our data inputting, cleaning, analyzing, and visualizing f
 <br>
 weather_data.csv: the raw weather dataset<br>
 <br>
-data.csv: the cleaned weather dataset<br>
-<br>
-<br>
-<br>
-packages.txt: packages needed for installation<br>
+testSet.ipynb: data used to test the LSTM model<br>
+
 <br>
 
 ## Instructions for reproduction
 To reproduce our results: <br>
-- Read in and clean barbie review data set until you have two columns: written review and number rating<br>
-- Use spacy to extract and identify most common adjectives in the reviews<br>
-- Apply VADER sentiment analysis to the reviews and add the VADER score as a column to the dataset<br>
-- Apply a linear regression model to the data to see if the VADER scores correlate to the user's number rating<br>
-- Use the R^2 and Mean Squared Error values to determine the efficacy of the model <br>
+- Read in and clean weather_data.csv until all columns are recognizable and do not contain NaN values<br>
+- Group by year and calculate the maximum, minimum and average temperature, and precipitation for each year<br>
+- Perform LSTM model and get predictions for yearly average temperatures for future years<br>
+- Plot actual and predicted yearly average temperature <br>
+- Plot yearly average temperatures for the future years <br>
